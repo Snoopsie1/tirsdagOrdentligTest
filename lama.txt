@@ -2,8 +2,8 @@ Hej lama
 
 dif ting
 
-nåja og et telt
-<<<<<<< HEAD
+nåja og et telt og bamse
+
 hej Henning
 
 huske liste:
@@ -11,8 +11,6 @@ kuglepen
 =======
 hej Henningssss
 
-
->>>>>>> 53d7eb729595b4828a8c2e18d8a25890cd920ced
 
 
 
