@@ -2,10 +2,16 @@ Hej lama
 
 dif ting
 
+<<<<<<< HEAD
 hej Henning
 
 huske liste:
 kuglepen
+=======
+hej Henningssss
+
+
+>>>>>>> 53d7eb729595b4828a8c2e18d8a25890cd920ced
 
 
 
