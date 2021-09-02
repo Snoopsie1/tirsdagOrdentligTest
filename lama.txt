@@ -2,6 +2,7 @@ Hej lama
 
 dif ting
 
+nåja og et telt
 <<<<<<< HEAD
 hej Henning
 
